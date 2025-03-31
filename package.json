@@ -1,6 +1,6 @@
 {
   "name": "munote",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI note taking app",
   "type": "module",
   "main": "index.js",
