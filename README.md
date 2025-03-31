@@ -7,7 +7,7 @@ muNote will run on node environment
 # Installation
 
 ```
-npm i munote
+npm i -g munote
 ```
 
 ## Commands:
@@ -40,7 +40,6 @@ List of commands to implement
   - **$ muNote export \<book\>**
 
 ---
-
 
 ```
 npm i munote
