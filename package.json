@@ -1,16 +1,26 @@
 {
-  "name": "muNote",
-  "version": "1.0.0",
+  "name": "munote",
+  "version": "1.0.1",
   "description": "CLI note taking app",
   "type": "module",
   "main": "index.js",
   "bin": {
-    "muNote": "index.js"
+    "munote": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords":
+    [
+    "CLI",
+    "cli note",
+    "command line notes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maddy-hub/muNote.git"
+  },
+  "author": "maddy",
   "license": "ISC",
   "dependencies": {
     "@inquirer/prompts": "^7.4.0",

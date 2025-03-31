@@ -7,7 +7,7 @@ import fs from "fs";
 
 const program = new Command();
 
-program.name("muNote").description("CLI note taking app").version("1.0.1");
+program.name("munote").description("CLI note taking app").version("1.0.1");
 
 program
   .command("add")
