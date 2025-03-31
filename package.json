@@ -1,0 +1,23 @@
+{
+  "name": "muNote",
+  "version": "1.0.0",
+  "description": "CLI note taking app",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "muNote": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^7.4.0",
+    "chalk": "^5.4.1",
+    "colors": "^1.4.0",
+    "commander": "^10.0.0",
+    "inquirer": "^9.3.7",
+    "pouchdb": "^9.0.0"
+  }
+}
